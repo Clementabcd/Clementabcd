@@ -42,8 +42,8 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my passion for te
 
 ## 📈 GitHub Stats
 
-![Clementabcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clementabcd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clementabcd&layout=compact&theme=radical)
+![Clementabcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clementabcd&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clementabcd&layout=compact&theme=shadow_blue)
 
 ---
 
