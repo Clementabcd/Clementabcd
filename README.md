@@ -4,6 +4,12 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my passion for te
 
 ---
 
+## Support me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3VHWZO)
+
+---
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on exciting projects and always eager to explore new technologies.
@@ -24,9 +30,9 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my passion for te
 ## ⭐ Featured Projects
 
 <!-- Highlight a few of your favorite or most popular repositories here -->
-- [Project 1](#) — Short description
-- [Project 2](#) — Short description
-- [Project 3](#) — Short description
+- [apps-gallery-pro](https://github.com/Clementabcd/apps-gallery-pro) — Beautiful gallery/portfolio presenting all my apps
+- [glass-calculator](https://github.com/Clementabcd/glass-calculator) — Calculatrice magnifique avec effets de verre et arrière-plans changeants
+- [notes-apps-phone](https://github.com/Clementabcd/NotesApp-Phone) — Application de notes mobile
 
 ---
 
@@ -36,7 +42,7 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my passion for te
 - [LinkedIn](#)
 - [Twitter](#)
 - [Personal Website](#)
-- Email: 
+- Email: clement.jonghmans@hotmail.com
 
 ---
 
